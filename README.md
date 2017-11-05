@@ -10,3 +10,7 @@ this my sensor block , it will allow people to read the 6 sensor from the roomba
 
 
 this my wheel block , it will allow the command of the whell.
+
+![image](https://user-images.githubusercontent.com/31491677/32417762-8efd83c2-c22c-11e7-9056-d8d226992bde.png)
+
+this my temperature blok. it will read the temperature around and direct the roomba depending on how i set it up.
